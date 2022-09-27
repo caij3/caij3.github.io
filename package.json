@@ -2,7 +2,7 @@
   "name": "jackson-cai-resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://caij3.github.io/react-website",
+  "homepage": "https://caij3.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
