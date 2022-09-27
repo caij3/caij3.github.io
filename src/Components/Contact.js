@@ -20,7 +20,9 @@ class Contact extends Component {
 
             <div className="ten columns">
               <p className="lead">{message}</p>
-              <a href='mailto:j-cai@outlook.com'>{email}</a>
+              <h2>
+                <a href='mailto:j-cai@outlook.com'>{email}</a>
+              </h2>
             </div>
           </div>
         </Fade>
