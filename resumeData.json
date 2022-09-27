@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name":"Jackson Cai",
+    "description":"Passionate and proficient in artificial intelligence, cloud computing, and web development",
+    "image":"profile-pic.jpg",
+    "bio":"I am a fourth year Computer Science and Business Administration Double Degree student at Wilfrid Laurier University. I love hiking, video games, and karaoke!",
+    "contactmessage":"Feel free to contact me at:",
+    "email": "j-cai@outlook.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/jcai3",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/caij3",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Wilfrid Laurier University",
+        "degree":"Computer Science and Business Administration",
+        "graduated":"September 2019 - Present",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Ontario Teachers' Pension Plan",
+        "title":"Programmer Analyst Intern ",
+        "years":"January 2022 - Present",
+        "description":"I am part of the Emerging Technologies and Enterprise Architecture team, where I explore various new technologies within the workplace. \nHere, I was exposed to deploying microservices using Kubernetes and cloud computing using Microsoft Azure. I also had the chance to work with a Data Cloud called Snowflake."
+      },
+      {
+        "company":"Directworx",
+        "title":"Junior Developer",
+        "years":"May 2021 - August 2021",
+        "description":"My first industry experience in working with C#, relational databases, and API's. At this internship, I had developed a quality control dashboard that was able to visually present past and present jobs. This dashboard had Microsoft Teams integration and was able to send notifications using POST requests when there was an issue."
+      },
+      {
+        "company":"Mero Technologies",
+        "title":"Software Quality Assurance Intern",
+        "years":"August 2019 - September 2020",
+        "description":"Working at this start-up has helped me become agile and adaptive due to the fast pace nature. Here I had got my hands dirty flashing and testing Arduinos to ensure they were working properly and efficiently. I had worked with Python to develop a product identification program that was able to identify QR codes, program hex files into them, and print the QR code."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":""
+      }
+    ]
+  }
+}
