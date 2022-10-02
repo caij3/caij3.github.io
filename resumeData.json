@@ -54,28 +54,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":""
+        "title":"Places In 'Loo",
+        "category":"An app to help students in the Waterloo region find sublets",
+        "image":"places-in-loo.png",
+        "url":"https://github.com/keyfive5/Places-in-Loo"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":""
+        "title":"Discord Bot",
+        "category":"A chat bot for the popular chat app Discord that is able to display random posts from Reddit",
+        "image":"discord-bot.png",
+        "url":"https://github.com/caij3/Discord-Bot-Public"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Encryption Tool",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":""
+        "image":"vba-encryption.png",
+        "url":"https://github.com/caij3/EncryptionVBA"
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
+        "category":"This website was built using the React framework",
         "image":"04.jpg",
-        "url":""
+        "url":"https://github.com/caij3/caij3.github.io"
       }
     ]
   }
