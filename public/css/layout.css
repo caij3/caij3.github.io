@@ -38,6 +38,28 @@ header {
    overflow: hidden;
 }
 
+header .image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+header .h2 { 
+  position: absolute; 
+  color: rgb(255, 255, 255);
+  top: 0px; 
+  left: 0; 
+  width: 100%; 
+}
+
+header .h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.4);
+   padding: 0px; 
+}
+
 /* vertically center banner section */
 header:before {
    content: '';
@@ -54,7 +76,7 @@ header .banner {
    text-align: center;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text { width: 100%; position: relative}
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
