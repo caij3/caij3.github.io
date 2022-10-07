@@ -397,6 +397,15 @@ ul#nav li.current a { color: #fe6928; }
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
 }
+.portfolio-item:hover .overlay p{
+   font: 11px/21px 'opensans-light', sans-serif;
+   color: #ffffff;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   display: block;
+   text-align: left;
+}
+
 .portfolio-item:hover .link-icon {
    opacity: 1;
 	-moz-opacity: 1;

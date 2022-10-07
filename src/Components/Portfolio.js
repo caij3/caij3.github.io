@@ -13,10 +13,13 @@ class Portfolio extends Component {
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url}>
             <img alt={projects.title} src={projectImage} />
-            </a>
             <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <a href={projects.url}>
+              <div className="overlay">
+                <p>{projects.category}</p>
+              </div>
+            </a>
           </div>
         </div>
       );
