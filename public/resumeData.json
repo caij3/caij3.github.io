@@ -4,10 +4,15 @@
     "description":"Passionate and proficient in data analysis, cloud computing, and web development",
     "image":"profile-pic.jpg",
     "bio":"Passionate software developer and recent alumni from Wilfrid Laurier University, graduating with a Computer Science and Business Double Degree. I love hiking, reading, and skating!",
-    "contactmessage":"Feel free to contact me at:",
+    "contactmessage":"Feel free to reach out to me!",
     "email": "j-cai@outlook.com",
     "resumedownload":"https://drive.google.com/file/d/1CYNT_xOJSmhi2Pc2YPmJDHB8nvad4M1z/view?usp=sharing",
     "social":[
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/caix3600/",
+        "className":"fa fa-instagram"
+      },
       {
         "name":"linkedin",
         "url":"http://www.linkedin.com/in/jcai3",
