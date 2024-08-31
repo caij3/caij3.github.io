@@ -12,5 +12,8 @@ npm start
 npm run build
 ```
 # Deploying project
+```shell
 npm run build
 npm run deploy
+```
+
