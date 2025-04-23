@@ -31,11 +31,17 @@
       {
         "school":"Wilfrid Laurier University",
         "degree":"Computer Science and Business Administration",
-        "graduated":"September 2019 - Present",
+        "graduated":"September 2019 - April 2024",
         "description":""
       }
     ],
     "work":[
+      {
+        "company":"Wei's Western Wear Ltd",
+        "title":"Software Developer, Contract",
+        "years":"July 2024 - August 2024",
+        "description":"I was given a huge opportunity to optimize the workflows for the company. I was able to analyze over 40,000 images that the company had stored and developed an algorithm to detect blurry images within their web page so that they could be replaced. Additionally, I had automated the workflow of developing unique discount codes for customers who leave a Google review."
+      },
       {
         "company":"Ontario Teachers' Pension Plan",
         "title":"Programmer Analyst Intern ",
